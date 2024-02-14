@@ -1,5 +1,4 @@
 import { Route, Routes } from 'react-router-dom';
-import './App.css';
 import { Home, Login, SignUp, Dashboard } from './pages/index'
 import { PrivateRoute, Navbar } from './components/index'
 import { useState } from 'react';
